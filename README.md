@@ -1,6 +1,6 @@
 # RestApi
 
-**Basic Elixir API using only PlugCowboy and MongoDBs**
+**Basic Elixir API using only PlugCowboy and MongoDB**
 
 ## Installation
 
